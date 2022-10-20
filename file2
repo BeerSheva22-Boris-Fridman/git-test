@@ -1,1 +1,9 @@
 5678
+./
+../
+.git/
+.gitignore
+dir1/
+file1
+file2
+78910
